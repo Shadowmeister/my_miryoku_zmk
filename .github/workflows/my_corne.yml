@@ -13,4 +13,4 @@ jobs:
       alphas: '["dvorak"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y\nCONFIG_ZMK_MOUSE=y"]'
-      branches: '["zmkfirmware/zmk/main urob/zmk/mouse-3.2"]'
+      branches: '["zmkfirmware/zmk/main caksoylar/zmk/feat/mouse-keys-3.2"]'
